@@ -1,0 +1,18 @@
+NEDITOVAT!_pouze_veci_co_jsou_za_rovnase__a_pred_rovnase_a_za_cislem_musibyt_mezera(white_space)
+
+Vojak:
+hp= 10
+sila_Jednotky= 6
+dosah_jednotky= 5
+
+Archer:
+hp= 10
+dostrel= 2
+sila_Jednotky= 4
+dosah_jednotky= 4
+
+Mag:
+hp= 10
+dostrel=  2
+sila_Jednotky= 4
+dosah_jednotky= 4

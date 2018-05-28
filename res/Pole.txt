@@ -1,0 +1,11 @@
+NEEDITOVAT!!_Jedno_policko=jedna_cislice,Ta_odpovida_cislici(poradi_Zaznamu)_v_souboru_s_terenem(ale_pridava_X/_pro_prazdne_pole)_program_sam_doplni_prazdna_pole_do_delky_nejdelsiho_radku_____PS.:Vždy_na_začatku_musí_být_jedno_slovo_pro_ochranu_proti_editoru_co_pridavaji_na_zacatek_neco
+6300400300
+0100040160
+0000040200
+0103040400
+0500X00000
+0000040000
+0300104000
+0104001210
+0100040116
+0500400510

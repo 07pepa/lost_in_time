@@ -1,0 +1,7 @@
+NEEDITOVAT_JE_ZAHRNUT_I_TEREN_0_NeutralTeren...
+1)Prolaklina= 2
+2)Mlha_v_procentech_sance(max49)= 30
+3)Radioaktivita= 5
+4)Vyvysenia= 3
+5)HealPlace= 4
+6)Bonus_K_sile= 3
