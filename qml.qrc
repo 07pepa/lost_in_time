@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>obrazky_origo_vektory/archer_blue.svg</file>
+        <file>obrazky_origo_vektory/archer_red.svg</file>
+        <file>obrazky_origo_vektory/characters-35178.svg</file>
+        <file>obrazky_origo_vektory/MainMenuPozadi.svg</file>
+        <file>obrazky_origo_vektory/medik_blue.svg</file>
+        <file>obrazky_origo_vektory/medik_red.svg</file>
+        <file>obrazky_origo_vektory/Radiation_warning_symbol2.svg</file>
+        <file>obrazky_origo_vektory/sval wiki.svg</file>
+        <file>obrazky_origo_vektory/teren_dira.svg</file>
+        <file>obrazky_origo_vektory/teren_heal.svg</file>
+        <file>obrazky_origo_vektory/teren_mlha.svg</file>
+        <file>obrazky_origo_vektory/teren_neutral.svg</file>
+        <file>obrazky_origo_vektory/teren_prolaklina.svg</file>
+        <file>obrazky_origo_vektory/teren_radioactive.svg</file>
+        <file>obrazky_origo_vektory/teren_sila.svg</file>
+        <file>obrazky_origo_vektory/teren_vyvysenina.svg</file>
+        <file>obrazky_origo_vektory/vojak_blue.svg</file>
+        <file>obrazky_origo_vektory/vojak_red.svg</file>
+        <file>obrazky_origo_vektory/zakaz.svg</file>
+        <file>menuBG.wav</file>
+        <file>MainMenu.qml</file>
+        <file>Jednotka.qml</file>
+        <file>Políčko.qml</file>
+        <file>HigHscore.qml</file>
+        <file>Hra.qml</file>
+        <file>Tlac.qml</file>
+        <file>TBP-SoundBible.com.wav</file>
+        <file>Teren.qml</file>
+        <file>PocitadloTahu.qml</file>
+        <file>PrepnutiHrace.qml</file>
+        <file>CervenyHrad.qml</file>
+        <file>obrazky_origo_vektory/hra_pozadi.jpeg</file>
+        <file>obrazky_origo_vektory/red_hrad.svg</file>
+        <file>obrazky_origo_vektory/blue_hrad.svg</file>
+        <file>ModryHrad.qml</file>
+        <file>KonecHry.qml</file>
+        <file>Pauza.qml</file>
+        <file>NameImput.qml</file>
+        <file>ProblemDealer.qml</file>
+        <file>Infobox.qml</file>
+    </qresource>
+</RCC>
